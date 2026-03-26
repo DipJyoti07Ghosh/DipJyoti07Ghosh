@@ -1,7 +1,9 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="380"
+<img align="right"
+     alt="Coding"
+     width="380"
      src="https://github.com/user-attachments/assets/8a716d8a-470d-4343-b28f-b14d10c78e43"
-     style="margin-left: 20px;" />
+     style="margin-left: 25px; margin-bottom: 10px;">
 
 <div align="justify">
 
