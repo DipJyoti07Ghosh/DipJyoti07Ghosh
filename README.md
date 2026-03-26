@@ -5,7 +5,7 @@ style="margin-left: 50px; border-radius: 10px;">
 
 ### Hi 👋, I am Dipjyoti Ghosh
 
-I am a **B.Tech CSE (AI & ML)** student dedicated to transforming innovative ideas into intelligent ecosystems. I thrive at the intersection of full-stack architecture and machine learning, translating complex logic into seamless, user-centric digital experiences.
+I am a **B.Tech CSE (AI & ML)** student dedicated to transforming innovative ideas into intelligent ecosystems. I thrive at the intersection of full-stack architecture and machine learning, while sharpening my edge as a Java-based DSA problem solver—engineering efficient solutions from complex challenges, translating complex logic into seamless, user-centric digital experiences.
 
 - 🏆 **The Track Record:** 2x Hackathon Champion and 5x National Finalist  
 - 🤖 **The Focus:** Integrating ML models into scalable MERN applications  
