@@ -1,5 +1,6 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="380" src="https://github.com/user-attachments/assets/b7204934-0d1d-46e1-a09d-b9f3abc891da" style="margin-left: 20px; border-radius: 10px;">
+<img align="right" alt="Coding" width="380" src="https://github.com/user-attachments/assets/96821324-5910-4566-852a-4a6625ac7d95" style="margin-left: 20px; border-radius: 10px;">
+
 
 ### Hi 👋, I am Dipjyoti Ghosh
 
