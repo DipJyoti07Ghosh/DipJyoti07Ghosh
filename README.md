@@ -3,7 +3,7 @@
 src="https://github.com/user-attachments/assets/96821324-5910-4566-852a-4a6625ac7d95"
 style="margin-left: 50px; border-radius: 10px;">
 
-### Hi 👋, I am Dipjyoti Ghosh
+### Hi 👋, I am **Dipjyoti Ghosh**
 
 I am a **B.Tech CSE (AI & ML)** student dedicated to transforming innovative ideas into intelligent ecosystems. I thrive at the intersection of full-stack architecture and machine learning, while sharpening my edge as a Java-based DSA problem solver—engineering efficient solutions from complex challenges, translating complex logic into seamless, user-centric digital experiences.
 
