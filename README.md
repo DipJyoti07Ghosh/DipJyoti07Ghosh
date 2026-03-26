@@ -2,11 +2,11 @@
 <img align="right" alt="Coding" width="380"
 src="https://github.com/user-attachments/assets/8a716d8a-470d-4343-b28f-b14d10c78e43">
 
-&nbsp;&nbsp;&nbsp;
-
 ### Hi 👋, I am Dipjyoti Ghosh
 
-&nbsp;&nbsp;&nbsp;I am a **B.Tech CSE (AI & ML)** student dedicated to transforming innovative ideas into intelligent ecosystems. I thrive at the intersection of full-stack architecture and machine learning, while sharpening my edge as a Java-based DSA problem solver—engineering efficient solutions from complex challenges, translating complex logic into seamless, user-centric digital experiences.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;I am a <b>B.Tech CSE (AI & ML)</b> student dedicated to transforming innovative ideas into intelligent ecosystems. I thrive at the intersection of full-stack architecture and machine learning, while sharpening my edge as a Java-based DSA problem solver—engineering efficient solutions from complex challenges, translating complex logic into seamless, user-centric digital experiences.
+</p>
 
 <ul>
   <li>🏆 <b>The Track Record:</b> 2x Hackathon Champion and 5x National Finalist.</li>
@@ -15,7 +15,7 @@ src="https://github.com/user-attachments/assets/8a716d8a-470d-4343-b28f-b14d10c7
   <li>🚀 <b>The Stats:</b> 3⭐ on CodeChef | 350+ LeetCode problems solved.</li>
 </ul>
 
-<br>
+<br clear="right">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dip07jyoti) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dipjyoti.ghosh.982) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghosh_dipjyoti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipjyoti-ghosh-091087342) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipjyotighosh00@gmail.com) 
