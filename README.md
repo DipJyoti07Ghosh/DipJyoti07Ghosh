@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="378"
+<img align="right" alt="Coding" width="370"
 src="https://github.com/user-attachments/assets/96821324-5910-4566-852a-4a6625ac7d95"
 style="margin-left: 50px; border-radius: 10px;">
 
