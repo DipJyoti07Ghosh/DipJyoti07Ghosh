@@ -1,15 +1,16 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="380" src="https://github.com/user-attachments/assets/96821324-5910-4566-852a-4a6625ac7d95" style="margin-left: 20px; border-radius: 10px;">
-
+<img align="right" alt="Coding" width="380"
+src="https://github.com/user-attachments/assets/96821324-5910-4566-852a-4a6625ac7d95"
+style="margin-left: 50px; border-radius: 10px;">
 
 ### Hi 👋, I am Dipjyoti Ghosh
 
 I am a **B.Tech CSE (AI & ML)** student dedicated to transforming innovative ideas into intelligent ecosystems. I thrive at the intersection of full-stack architecture and machine learning, translating complex logic into seamless, user-centric digital experiences.
 
-* 🏆 **The Track Record:** 2x Hackathon Champion and 5x National Finalist.
-* 🤖 **The Focus:** Integrating ML models into scalable MERN applications.
-* 💡 **The Drive:** Transforming "what if" ideas into "live" production code.
-* 🚀 **The Stats:** 3⭐ on CodeChef | 350+ LeetCode problems solved.
+- 🏆 **The Track Record:** 2x Hackathon Champion and 5x National Finalist  
+- 🤖 **The Focus:** Integrating ML models into scalable MERN applications  
+- 💡 **The Drive:** Transforming "what if" ideas into "live" production code  
+- 🚀 **The Stats:** 3⭐ on CodeChef | 350+ LeetCode problems solved  
 
 <br clear="right">
 
